@@ -10,7 +10,7 @@ As their data engineer, we will building an ETL pipeline that extracts their dat
 ## Project Files
 - dl.cfg
 - etl.py
--test.ipynb
+- test.ipynb
 
 
 **dwh.cfg** - This file will be used to store our credentials on Amazon. For security,
